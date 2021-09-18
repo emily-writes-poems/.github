@@ -1,4 +1,4 @@
-![Emily Writes Poems. A collection of my poems.](./images/ewp-header.png)
+![Emily Writes Poems. A collection of my poems.](https://raw.githubusercontent.com/emily-writes-poems/.github/main/profile/images/ewp-header.png)
 
 ## What's this project?
 A webapp displaying the text and details of my poetry.
@@ -16,9 +16,9 @@ A webapp displaying the text and details of my poetry.
 
 
 ## Styling
-![Color Palette](./images/ewp-colors.png)
-![Fonts](./images/ewp-fonts.png)
+![Color Palette](https://raw.githubusercontent.com/emily-writes-poems/.github/main/profile/images/ewp-colors.png)
+![Fonts](https://raw.githubusercontent.com/emily-writes-poems/.github/main/profile/images/ewp-fonts.png)
 
 #### Project logos
-![Project logo](./images/ewp-logo.png)
-![Project alt logo](./images/ewp-logo-alt.png)
+![Project logo](https://raw.githubusercontent.com/emily-writes-poems/.github/main/profile/images/ewp-logo.png)
+![Project alt logo](https://raw.githubusercontent.com/emily-writes-poems/.github/main/profile/images/ewp-logo-alt.png)
