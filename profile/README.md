@@ -11,7 +11,7 @@ A webapp displaying the text and details of my poetry.
     * R: React (bootstrapped with [Create React App](https://github.com/facebook/create-react-app))
     * N: Node.js (also with Create React App)
 * I use Python (with PyMongo) scripts for updating the database of poems. More on that in [this repo](https://www.github.com/emily-writes-poems/emily-writes-poems-scripts). I am currently working on migrating most of the functionality of these scripts (and filling in the blanks of functionality that doesn't yet exist in scripts) into an ElectronJS application. Check out [this repo](https://www.github.com/emily-writes-poems/emily-writes-poems-processing) for more.
-* The webapp is hosted on Heroku, so there may a ~30 second delay in fetching the site initially.
+* There may a ~30 second delay in fetching the site initially, as the service used to host the webapp wakes up from inactivity.
 
 
 ## Styling
